@@ -15,3 +15,5 @@ PLACE_WHERE_YOU_PUT_NETRADIANT/nexuiz/data [on windows].
 If you have already an autoexec.cfg, add the following line to your autoexec.cfg:
 
 exec fakeflags.cfg
+
+In game, type "r_listfakeflags" into the console.
