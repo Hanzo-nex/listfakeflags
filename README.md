@@ -8,12 +8,10 @@ http://wiki.thebadasschoobs.org
 
 Usage:
 
-Put the text files "autoexec.cfg" and "fakeflags.cfg" into your Nexuiz data folder. (.nexuiz/data [on linux],
-
-PLACE_WHERE_YOU_PUT_NETRADIANT/nexuiz/data [on windows].
+Put the text files "autoexec.cfg" and "fakeflags.cfg" into your Nexuiz data folder (.nexuiz/data [on linux], PLACE_WHERE_YOU_PUT_NETRADIANT/nexuiz/data [on windows].
 
 If you have already an autoexec.cfg, add the following line to your autoexec.cfg:
 
 exec fakeflags.cfg
 
-In game, type "r_listfakeflags" into the console.
+In game, type "r_listfakeflags" into the console to list the code for the flags.
